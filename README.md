@@ -32,6 +32,8 @@ Start reading from [001-basic.ts](001-basic.ts)!
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/pigoz/effect-crashcourse?file=001-basic.ts)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/pigoz/effect-crashcourse)
+
 ### Questions?
 
 Feel free to open an issue with ideas for improvement, questions, or
